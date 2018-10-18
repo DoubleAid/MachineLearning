@@ -1,7 +1,7 @@
 # MachineLearning
 Machine Learning Demo AND Code
 As the following content is the tree of this project
-project
+project \n
       + DecisionTree
       |     + buyComputer.scv          #examples
       |     + buyComputer.dot
