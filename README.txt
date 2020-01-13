@@ -1,12 +1,6 @@
-# MachineLearning
-Machine Learning Demo AND Code
-As the following content is the tree of this project
-project 
-      + DecisionTree
-      |     + buyComputer.scv          #examples
-      |     + buyComputer.dot          #
-      |     + tree.pdf
-      |     + DecidionTree_Sklearn.py  #DecisionTree builder by using scikit-learn
-      + K Nearest Neighbor
-      + Support Vector Machine
-      + Neural Network
+# 机器学习
+## 结构目录
+[1.机器学习概论](机器学习教程/1.机器学习基础/1.机器学习基础.md)
+[2.KNN k-近邻算法](机器学习教程/2.KNN k-近邻算法/2.KNN k-近邻算法.md)
+## 参考文档
+## 参考链接
